@@ -2,8 +2,6 @@ package blog.article6;
 
 import java.math.BigDecimal;
 
-import com.gargoylesoftware.htmlunit.javascript.host.URL;
-
 public class Product {
 	
 	private BigDecimal price;
