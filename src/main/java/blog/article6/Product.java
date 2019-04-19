@@ -45,7 +45,7 @@ public class Product {
 		this.imageUrl = imageUrl;
 	}
 	public String getCurrency() {
-		return currency;
+		return currency;111
 	}
 	public void setCurrency(String currency) {
 		this.currency = currency;
